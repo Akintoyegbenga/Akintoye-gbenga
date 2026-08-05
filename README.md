@@ -1,6 +1,18 @@
-🔭 I'm currently working on **Intro to DevOps Lab**
+<h1 align="center">Hi 👋, I'm Akintoye Gbenga</h1>
 
-- 🌱 I'm currently learning **Cloud and DevOps Engineering**
+<p align="center">
+<strong>Aspiring Cloud Engineer • Software Developer • DevOps Enthusiast</strong>
+</p>
+
+<p align="center">
+Welcome to my GitHub profile! I'm passionate about learning new technologies,
+building real-world projects, and continuously improving my technical skills.
+</p>
+
+---
+
+
+🌱 I'm currently learning **Cloud and DevOps Engineering**
 
 - 🤝 I'm looking to collaborate on **Open Source Projects**
 
@@ -126,20 +138,6 @@ A short description of your third project.
 
 # 📊 Contribution Graph
 <p align="center">
-
-
-<h1 align="center">Hi 👋, I'm Akintoye Gbenga</h1>
-
-<p align="center">
-<strong>Aspiring Cloud Engineer • Software Developer • DevOps Enthusiast</strong>
-</p>
-
-<p align="center">
-Welcome to my GitHub profile! I'm passionate about learning new technologies,
-building real-world projects, and continuously improving my technical skills.
-</p>
-
----
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?Akintoyegbenga&theme=github-compact"/>
 
